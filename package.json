@@ -1,0 +1,23 @@
+{
+  "name": "js-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JTR354/js-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JTR354/js-study/issues"
+  },
+  "homepage": "https://github.com/JTR354/js-study#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
